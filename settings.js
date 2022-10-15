@@ -54,25 +54,25 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['94714188730'] //ur owner number
-global.ownername = "nipuna rangana" //ur owner name
-global.ytname = "YT: 𝐂𝐈𝐁𝐄𝐑 𝐓𝐄𝐂𝐇" //ur yt chanel name
-global.socialm = "GitHub: Nipuna-apps" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.vcardowner = ['917736558244'] //ur owner number
+global.ownername = "Nimuzz" //ur owner name
+global.ytname = "YT: Sruthy Thilak" //ur yt chanel name
+global.socialm = "GitHub: Lachubot_sticker_bot" //ur github or insta name
+global.location = "India, Kerala, Kochi" //ur location
 
 //bot bomdy
-global.owner = ['94714188730'] //ur number 
-global.ownertag = '94714188730' //ur tag number
-global.botname = '📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶' //ur bot name
-global.linkz = "https://youtu.be/3J9-8U8St3U" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/3J9-8U8St3U" //ur website to be displayed
-global.botscript = 'https://github.com/Nipuna-apps/Blue-Lione-Bot' //script link
+global.owner = ['917736558244'] //ur number 
+global.ownertag = '917736558244' //ur tag number
+global.botname = '📶 lachubot 📶' //ur bot name
+global.linkz = "https://www.youtube.com/results?search_query=sruthi+thilak" //your theme url which will be displayed on whatsapp
+global.websitex = "https://www.youtube.com/results?search_query=sruthi+thilak" //ur website to be displayed
+global.botscript = 'https://github.com/Nimuzzzz/Blue-Lione-Bot' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶" //ur sticker watermark packname
-global.author = "📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶" //ur sticker watermark author
+global.packname = "📶 Nimuzz 📶" //ur sticker watermark packname
+global.author = "📶 Nimuzz 📶" //ur sticker watermark author
 global.menumoji ="💖"
-global.menuimg = "https://i.ibb.co/0mDLtyr/f2337149532299-58b7611d91faf.jpg" //ur alive img link [https://i.ibb.co]
+global.menuimg = "https://images.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/08/03/Pictures/_238bc778-d595-11ea-89d7-4307b9472930.jpg" //ur alive img link [https://i.ibb.co]
 global.alive = "https://raw.githubusercontent.com/Nipuna-apps/Blue-Lion-Bot-V2/main/LioneMedia/video/Lione-bot.mp4" //ur alive video or image link [github.com]
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
